@@ -1,0 +1,6 @@
+id,email,password_hash,created_at,is_banned
+0,s_bubryak@gmail.com,G56FDH58SDG756FDH,2002-10-07T11:23:54+03:00,f
+1,petrenko@domain.com,K5326HJ2452J442TG,2012-08-12T10:53:01+03:00,t
+2,alex@gmail.com,78VS78DGDGGFJ4KS3,2021-12-18T21:42:41+02:00,f
+3,noname@mail.com,423HKJ52J4B2J32WS,2010-02-21T04:31:11+02:00,f
+4,eugene@mail.ua,JKJK42523BNCXO4HK,2014-04-01T17:10:40+03:00,f

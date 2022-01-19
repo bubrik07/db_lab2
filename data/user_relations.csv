@@ -1,0 +1,6 @@
+owner_id,user_id,is_friends
+0,1,t
+0,4,f
+1,2,t
+3,4,t
+4,1,t
